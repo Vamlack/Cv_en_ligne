@@ -1,59 +1,38 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <title>Projet Prog-Web</title>
-    <link rel="stylesheet" type="text/css" href="CSS/classes-basiques.css">
-    <link rel="stylesheet" type="text/css" href="CSS/classes-locales.css">
-    <link rel="stylesheet" type="text/css" href="CSS/classes-boites.css">
-    <link rel="stylesheet" type="text/css" href="CSS/classes-boutons.css">
-    <link rel="stylesheet" type="text/css" href="CSS/classes-images.css">
-</head>
-<header>
+  <head>
+      <meta charset="UTF-8">
+      <title>Projet Prog-Web</title>
+      <link rel="stylesheet" type="text/css" href="CSS/classes-basiques.css">
+      <link rel="stylesheet" type="text/css" href="CSS/classes-locales.css">
+      <link rel="stylesheet" type="text/css" href="CSS/classes-boites.css">
+      <link rel="stylesheet" type="text/css" href="CSS/classes-boutons.css">
+      <link rel="stylesheet" type="text/css" href="CSS/classes-images.css">
+  </head>
+
+  <header>
     <div class ="logo" id="rubrique">
-        <div class="baniere">
+      <div class="baniere">
 
-            <a href="index.html"><img src="https://cdn.discordapp.com/attachments/709655933680222208/846672511857065984/bg_de_ouf.jpg" class=headerimg alt="image"></a>
-            <a href="https://instagram.com/un_oeil_a_paris?utm_medium=copy_link" target="_blank"><img src="https://cdn.discordapp.com/attachments/709655933680222208/846675338997006336/insta_des-familles.jpg" class=headerimg alt="image"></a>
-            <a href="mailto:louis.laree@efrei.net"><img src="https://cdn.discordapp.com/attachments/709655933680222208/846673896702607390/mail_des_familles.jpg" class=headerimg alt="image"></a><br>
+        <a href="index.php"><img src="" class=headerimg alt="image"></a>
+        <a href="espagnol.php"><img src="https://cdn.discordapp.com/attachments/628168927528091648/851771264649789440/41yjy5ibEkL._AC_SX425_.jpg" class=headerimg alt="image"></a>
+        <a href="anglais.php"><img src="https://cdn.discordapp.com/attachments/628168927528091648/851771741323919370/download.png" class=headerimg alt="image"></a><br>
 
-            <a href="mes-projets.html"><button type="button" class="button">Mes projets</button></a>
-            <a href="me-contacter.html"><button type="button" class="button">Me contacter</button></a>
-            <a href="qui-suis-je.html"><button type="button" class="button">Qui suis-je?</button></a>
-            <a href="Tableau-dynamique.html"><button type="button" class="button">Création</button></a>
-            <a href="informations.html"><button type="button" class="button">À propos</button></a>
-        </div>
+      </div>
     </div>
-</header>
+  </header>
 
-<body>
+  <body>
 
-<div class="baniere">
-    <h1>Projet de Programmation web:</h1>
-    <h1>Portefolio</h1>
-</div>
+    <div class="boite">
+    </div>
 
-<div class="boite">
-    <ul>
-        <li>Thomas Miras Garcia</li>
-        <li>Corentin Schiavo</li>
-        <li>Louis Laree</li>
-    </ul>
-</div>
+  </body>
 
-<div class="boite">
-    <div class="boite"><h2><a href="mes-projets.html">Mes différents projets</a></h2></div>
-    <div class="boite"><h2><a href="qui-suis-je.html">Qui suis-je?</a></h2></div>
-    <div class="boite"><h2><a href="me-contacter.html">Me contacter</a></h2></div>
-    <div class="boite"><h2><a href="informations.html">Notre projet</a></h2></div>
-</div>
-
-</body>
-
-<footer>
-    <a href="https://instagram.com/un_oeil_a_paris?utm_medium=copy_link" target="_blank"><p>Instagram</p></a>
-    <a href="mailto:louis.laree@efrei.net"><p>Email</p></a>
-    <a href="https://efreipicturestudio.fr/" target="_blank"><p>Efrei Picture Studio</p></a>
-</footer>
+  <footer>
+      <a href="https://instagram.com/un_oeil_a_paris?utm_medium=copy_link" target="_blank"><p>Instagram</p></a>
+      <a href="mailto:louis.laree@efrei.net"><p>Email</p></a>
+      <a href="https://efreipicturestudio.fr/" target="_blank"><p>Efrei Picture Studio</p></a>
+  </footer>
 
 </html>
