@@ -1,0 +1,38 @@
+/*classes diverses*/
+
+.container{
+  width: 100%;
+  height: auto;
+  margin: auto;
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 8%;
+}
+.container2{
+  width: 100%;
+  height: auto;
+  margin: auto;
+  padding: 10px;
+  padding-bottom: 33%;
+}
+
+.headerimg{
+    filter: drop-shadow(10px 5px 4px black);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    padding: 5px 2px 5px;
+}
+.headerimg:hover{
+  border:0.15em solid dimgray;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    left: 50%;
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 8px;
+    transform: translateX(-50%);
+}

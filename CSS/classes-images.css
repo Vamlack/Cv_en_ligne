@@ -1,0 +1,54 @@
+/*classes pour les images de la page "mes-projets"*/
+
+.photos-projets-right1{
+  width: 25%;
+  height: 0;
+  padding-bottom:23%;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-top: 0px;
+  background: url(https://cdn.discordapp.com/attachments/709655933680222208/850112502046261252/Pont_Neuf.jpg)
+}
+.photos-projets-right2{
+  width: 25%;
+  height: 0;
+  padding-bottom:23%;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-top: 0px;
+  background: url(https://cdn.discordapp.com/attachments/709655933680222208/850118003844579398/Montmartre.jpg)
+}
+
+.photos-projets-left1{
+  width: 25%;
+  height: 0;
+  padding-bottom:23%;
+  float: left;
+  margin-bottom: 0px;
+  background: url(https://cdn.discordapp.com/attachments/709655933680222208/850116122455834644/exploration-4.jpg);
+}
+
+.photos-projets-left2{
+  width: 25%;
+  height: 0;
+  padding-bottom:23%;
+  float: left;
+  margin-bottom: 0px;
+  background: url(https://cdn.discordapp.com/attachments/709655933680222208/850122108007612447/Hockey.jpg);
+}
+
+.montagne1{
+  "background-image: : url(https://cdn.pixabay.com/photo/2017/11/13/16/07/yellowstone-national-park-2946040_960_720.jpg)"
+}
+.montagne2{
+  "background: url(https://cdn.pixabay.com/photo/2017/11/13/16/07/yellowstone-national-park-2946040_960_720.jpg)"
+}
+.montagne3{
+  "background: url(https://cdn.pixabay.com/photo/2017/11/13/16/07/yellowstone-national-park-2946040_960_720.jpg)"
+}
+.montagne4{
+  "background: url(https://cdn.pixabay.com/photo/2017/11/13/16/07/yellowstone-national-park-2946040_960_720.jpg)"
+}
+.montagne5{
+  "background: url(https://cdn.pixabay.com/photo/2017/11/13/16/07/yellowstone-national-park-2946040_960_720.jpg)"
+}
